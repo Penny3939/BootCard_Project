@@ -15,14 +15,14 @@
 (5) 檢視營運財況：銷售紀錄、財務報表。
 
 ## 重點技術使用:
-> LINE Bot API串接、機器學習、MySQL資料庫、爬蟲、Flask、GCP雲端架構。\
-> 使用模型協同過濾方法進行SVD分解，以獲取矩陣特徵並進行模型訓練來建立完善推薦系統、結合Tableau設計出視覺化界面，進行財報、預測分析。
-> 
-> 推薦系統：\
+LINE Bot API串接、機器學習、MySQL資料庫、爬蟲、Flask、GCP雲端架構。\
+使用模型協同過濾方法進行SVD分解，以獲取矩陣特徵並進行模型訓練來建立完善推薦系統、結合Tableau設計出視覺化界面，進行財報、預測分析。\
+\
+推薦系統：\
 目的 : 根據客戶過往喜好，提供客製化商品推薦，以增加客戶的滿意度。\
 使用 「KNN、SVD」 ，使用模型協同過濾方法並進行SVD分解，以獲取矩陣特徵並進行模型訓練。
 
-> 銷售量預測：\
+銷售量預測：\
 目的 : 預測具有時效性產品，降低銷售成本，讓店家可提前作原物料準備。\
 使用 「LSTM、GRU」預測未來銷售量及變化，並將結果利用Tableau視覺化呈現。\
 ![螢幕擷取畫面 2023-06-13 234429](https://github.com/Penny3939/BootCard_Project/assets/125810833/e8cfc9cb-caae-45f7-826c-ca04d582bf64)
@@ -37,6 +37,7 @@
 ![S__179822621](https://github.com/Penny3939/BootCard_Project/assets/125810833/e6a58c6c-8840-44c2-91c3-cdedbb226dca)
 #### 商家端介面：
 ![S__179822619](https://github.com/Penny3939/BootCard_Project/assets/125810833/2aa45f4d-0315-4629-83c0-0d6895af48d9)
+
 
 ## 專案Demo影片:
 https://drive.google.com/file/d/1WnFbQ913zDBLBif4lAqFSbxrNqHflzF6/view?usp=sharing
