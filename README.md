@@ -30,7 +30,13 @@
 
 
 ## LINEBot架構圖:
-![螢幕擷取畫面 2023-06-13 233910](https://github.com/Penny3939/BootCard_Project/assets/125810833/8d5414d3-04b1-460b-b3fe-b68239e8e086)
+![螢幕擷取畫面 2023-06-13 233910](https://github.com/Penny3939/BootCard_Project/assets/125810833/8d5414d3-04b1-460b-b3fe-b68239e8e086)\
+
+顧客端介面：\
+![S__179822621](https://github.com/Penny3939/BootCard_Project/assets/125810833/e01107fe-87dc-4630-acb3-a65c5d263a31)\
+
+商家端介面：\
+![S__179822619](https://github.com/Penny3939/BootCard_Project/assets/125810833/487e5bf3-258d-4f02-a6f1-03c053fa846e)
 
 ## 專案Demo影片:
 https://drive.google.com/file/d/1WnFbQ913zDBLBif4lAqFSbxrNqHflzF6/view?usp=sharing
