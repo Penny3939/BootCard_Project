@@ -1,0 +1,9 @@
+config.ini
+cust.py
+purchase.py
+rfmtest.py
+salesreciept.py
+transactiondata.py
+webform.py
+model.py
+SQL
