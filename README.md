@@ -30,14 +30,13 @@ LINE Bot API串接、機器學習、MySQL資料庫、爬蟲、Flask、GCP雲端�
 
 
 ## LINEBot架構圖:
-![螢幕擷取畫面 2023-06-13 233910](https://github.com/Penny3939/BootCard_Project/assets/125810833/8d5414d3-04b1-460b-b3fe-b68239e8e086)\
+![螢幕擷取畫面 2023-06-13 233910](https://github.com/Penny3939/BootCard_Project/assets/125810833/7e7f2594-9707-4132-9c2e-4f5ff64c32cb)
 
 ## LINEBot 介面 
 #### 顧客端介面：
-![S__179822621](https://github.com/Penny3939/BootCard_Project/assets/125810833/e6a58c6c-8840-44c2-91c3-cdedbb226dca)
+![S__179822621](https://github.com/Penny3939/BootCard_Project/assets/125810833/7f7c8b21-7604-4969-8416-729400d0ce3f)
 #### 商家端介面：
-![S__179822619](https://github.com/Penny3939/BootCard_Project/assets/125810833/2aa45f4d-0315-4629-83c0-0d6895af48d9)
-
+![S__179822619](https://github.com/Penny3939/BootCard_Project/assets/125810833/3c88b3cd-6c0b-44ca-91b1-aa8f9c6b27c5)
 
 ## 專案Demo影片:
 https://drive.google.com/file/d/1WnFbQ913zDBLBif4lAqFSbxrNqHflzF6/view?usp=sharing
