@@ -34,9 +34,9 @@
 
 ## LINEBot 介面 
 #### 顧客端介面：
-![S__179822621](https://github.com/Penny3939/BootCard_Project/assets/125810833/e01107fe-87dc-4630-acb3-a65c5d263a31)
+![S__179822621](https://github.com/Penny3939/BootCard_Project/assets/125810833/e6a58c6c-8840-44c2-91c3-cdedbb226dca)
 #### 商家端介面：
-![S__179822619](https://github.com/Penny3939/BootCard_Project/assets/125810833/487e5bf3-258d-4f02-a6f1-03c053fa846e)
+![S__179822619](https://github.com/Penny3939/BootCard_Project/assets/125810833/2aa45f4d-0315-4629-83c0-0d6895af48d9)
 
 ## 專案Demo影片:
 https://drive.google.com/file/d/1WnFbQ913zDBLBif4lAqFSbxrNqHflzF6/view?usp=sharing
