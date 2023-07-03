@@ -25,7 +25,7 @@ LINE Bot API串接、機器學習、MySQL資料庫、爬蟲、Flask、GCP雲端�
 > 銷售量預測：\
 目的 : 預測具有時效性產品，降低銷售成本，讓店家可提前作原物料準備。\
 使用 「LSTM、GRU」預測未來銷售量及變化，並將結果利用Tableau視覺化呈現。\
-![Untitled](https://github.com/Penny3939/BootCard_Project/assets/125810833/32d80645-458b-47b5-8269-2b6907b7c849)
+![Untitled](https://github.com/Penny3939/BootCard_Project/assets/125810833/b99ffb36-4c64-4832-87aa-6f2898d2312b)
 
 ## LINEBot架構圖:
 ![螢幕擷取畫面 2023-06-13 233910](https://github.com/Penny3939/BootCard_Project/assets/125810833/7e7f2594-9707-4132-9c2e-4f5ff64c32cb)
